@@ -20,7 +20,7 @@ const aliRashid = {
 };
 
 console.log(aliRashid);
-
+```
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
